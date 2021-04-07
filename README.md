@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @graemenewton.
-- 🧠 I am a PhD student at the University of Bristol, UK.
+- 🧠 I am a neuroscience PhD student at the University of Bristol, UK.
 - 👀 I’m interested in understanding how peripheral nerve fibre in humans and mice transduce noxious stimuli.
 - 🌱 I’m currently working on developing novel tools for mouse teased-fibre electrophysiology and human microneurography.
 - 📫 Reach me on LinkedIn as Graeme Newton or through email at graeme.newton@bristol.ac.uk
-
 
 - 💞️ Read below for a more detailed summary of my career and research interests!
 
