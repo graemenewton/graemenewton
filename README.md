@@ -3,7 +3,7 @@
 - 👀 I’m interested in understanding how peripheral nerve fibre in humans and mice transduce noxious stimuli.
 - 🌱 I’m currently working on developing novel tools for mouse teased-fibre electrophysiology and human microneurography.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/graeme-w-t-newton/) or through email at graeme.newton@bristol.ac.uk.
--  Check out my [University of Bristol Profile](https://research-information.bris.ac.uk/en/persons/graeme-w-t-newton)!
+-  Check out my [University of Bristol profile](https://research-information.bris.ac.uk/en/persons/graeme-w-t-newton)!
 
 - 💞️ Read below for a more detailed summary of my career and research interests!
 
